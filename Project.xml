@@ -40,7 +40,7 @@
 	<window unless="mac" allow-high-dpi="true" />
 
 	<!--Mobile-specific-->
-	<window if="mobile" orientation="landscape" fullscreen="true" resizable="false" allow-shaders="true" require-shaders="true" allow-high-dpi="true"/>
+	<window if="mobile" orientation="landscape" fullscreen="true" resizable="false"/>
 
 	<!-- _____________________________ Path Settings ____________________________ -->
 
